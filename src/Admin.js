@@ -1,3 +1,4 @@
+// otro ejemplo de comentario agregado
 import './App.css';
 import farmaciaLogo from './img/farmacia.png';
 import React, { useState, useEffect } from 'react';
